@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=mi_icono.ico main.py
